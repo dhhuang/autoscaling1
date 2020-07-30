@@ -11,6 +11,6 @@ deploy:
   file: dist/*
   skip_cleanup: true
   on:
-    repo: fortinet/fortiweb-autoscale
+    repo: dhhuang/fortiweb-autoscale
     tags: true
     branch: master
